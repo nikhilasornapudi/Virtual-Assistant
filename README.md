@@ -62,5 +62,4 @@ To install the virtual assistant, follow these steps:
 - Install the required libraries.
 - Run the virtual_assistant.py file.
 
-License
 The virtual assistant is licensed under the MIT License.
